@@ -78,7 +78,7 @@ This script facilitates Gene Set Enrichment Analysis (GSEA) on pre-ranked gene l
 
 ## 01_DifferentialExpresiion.R
 ### Description
-The following R script (`01_....R`) contains a function named `diffexpress` aimed at performing differential expression analyses based on various arguments such as tissue type, sex, and comparison between groups. It involves various steps as outlined below:
+The following R script contains a function named `diffexpress` aimed at performing differential expression analyses based on various arguments such as tissue type, sex, and comparison between groups. It involves various steps as outlined below:
 
 ### Libraries: Loads necessary R libraries
 library(dplyr)
