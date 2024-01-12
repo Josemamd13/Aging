@@ -1,0 +1,641 @@
+[2023-12-01 12:28:44] Start greasing /gpfs/scratch/bsc08/bsc08295/TFM/Aging/myrun_02GSEA.txt
+[2023-12-01 12:28:44] INFO: File with 210 correct Tasks
+[2023-12-01 12:28:44] INFO: MPI engine is ready to run with 210 workers
+[2023-12-01 12:28:44] INFO: Current Working Dir /home/bsc08/bsc08295/scratch/TFM/Aging
+[2023-12-01 12:28:44] INFO: Run on 9 nodes
+[2023-12-01 12:28:44] INFO: Job ID 31022344
+[2023-12-01 12:28:44] INFO: Allocating task 1 located in line 1 to Worker 1
+[2023-12-01 12:28:44] INFO: Allocating task 2 located in line 2 to Worker 2
+[2023-12-01 12:28:44] INFO: Allocating task 3 located in line 3 to Worker 3
+[2023-12-01 12:28:44] INFO: Allocating task 4 located in line 4 to Worker 4
+[2023-12-01 12:28:44] INFO: Allocating task 5 located in line 5 to Worker 5
+[2023-12-01 12:28:44] INFO: Allocating task 6 located in line 6 to Worker 6
+[2023-12-01 12:28:44] INFO: Allocating task 7 located in line 7 to Worker 7
+[2023-12-01 12:28:44] INFO: Allocating task 8 located in line 8 to Worker 8
+[2023-12-01 12:28:44] INFO: Allocating task 9 located in line 9 to Worker 9
+[2023-12-01 12:28:44] INFO: Allocating task 10 located in line 10 to Worker 10
+[2023-12-01 12:28:44] INFO: Allocating task 11 located in line 11 to Worker 11
+[2023-12-01 12:28:44] INFO: Allocating task 12 located in line 12 to Worker 12
+[2023-12-01 12:28:44] INFO: Allocating task 13 located in line 13 to Worker 13
+[2023-12-01 12:28:44] INFO: Allocating task 14 located in line 14 to Worker 14
+[2023-12-01 12:28:44] INFO: Allocating task 15 located in line 15 to Worker 15
+[2023-12-01 12:28:44] INFO: Allocating task 16 located in line 16 to Worker 16
+[2023-12-01 12:28:44] INFO: Allocating task 17 located in line 17 to Worker 17
+[2023-12-01 12:28:44] INFO: Allocating task 18 located in line 18 to Worker 18
+[2023-12-01 12:28:44] INFO: Allocating task 19 located in line 19 to Worker 19
+[2023-12-01 12:28:44] INFO: Allocating task 20 located in line 20 to Worker 20
+[2023-12-01 12:28:44] INFO: Allocating task 21 located in line 21 to Worker 21
+[2023-12-01 12:28:44] INFO: Allocating task 22 located in line 22 to Worker 22
+[2023-12-01 12:28:44] INFO: Worker 1 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 9 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 20 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 8 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 10 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 6 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 18 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 17 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 22 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 5 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 14 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 11 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 19 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 7 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Allocating task 23 located in line 23 to Worker 23
+[2023-12-01 12:28:44] INFO: Worker 15 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 16 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 12 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 21 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 2 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Allocating task 24 located in line 24 to Worker 24
+[2023-12-01 12:28:44] INFO: Worker 3 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 13 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 4 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Worker 23 on node s02r1b28
+[2023-12-01 12:28:44] INFO: Allocating task 25 located in line 25 to Worker 25
+[2023-12-01 12:28:44] INFO: Allocating task 26 located in line 26 to Worker 26
+[2023-12-01 12:28:44] INFO: Allocating task 27 located in line 27 to Worker 27
+[2023-12-01 12:28:44] INFO: Allocating task 28 located in line 28 to Worker 28
+[2023-12-01 12:28:44] INFO: Allocating task 29 located in line 29 to Worker 29
+[2023-12-01 12:28:44] INFO: Allocating task 30 located in line 30 to Worker 30
+[2023-12-01 12:28:44] INFO: Worker 28 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 27 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 31 located in line 31 to Worker 31
+[2023-12-01 12:28:44] INFO: Worker 30 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 26 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 32 located in line 32 to Worker 32
+[2023-12-01 12:28:44] INFO: Worker 29 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 33 located in line 33 to Worker 33
+[2023-12-01 12:28:44] INFO: Worker 32 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 34 located in line 34 to Worker 34
+[2023-12-01 12:28:44] INFO: Worker 24 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 35 located in line 35 to Worker 35
+[2023-12-01 12:28:44] INFO: Worker 25 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 36 located in line 36 to Worker 36
+[2023-12-01 12:28:44] INFO: Worker 35 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 37 located in line 37 to Worker 37
+[2023-12-01 12:28:44] INFO: Worker 36 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 38 located in line 38 to Worker 38
+[2023-12-01 12:28:44] INFO: Worker 37 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 39 located in line 39 to Worker 39
+[2023-12-01 12:28:44] INFO: Worker 33 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 40 located in line 40 to Worker 40
+[2023-12-01 12:28:44] INFO: Worker 39 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 41 located in line 41 to Worker 41
+[2023-12-01 12:28:44] INFO: Worker 34 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 42 located in line 42 to Worker 42
+[2023-12-01 12:28:44] INFO: Worker 40 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 31 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 42 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 38 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 43 located in line 43 to Worker 43
+[2023-12-01 12:28:44] INFO: Worker 41 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 44 located in line 44 to Worker 44
+[2023-12-01 12:28:44] INFO: Worker 43 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 44 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Allocating task 45 located in line 45 to Worker 45
+[2023-12-01 12:28:44] INFO: Allocating task 46 located in line 46 to Worker 46
+[2023-12-01 12:28:44] INFO: Allocating task 47 located in line 47 to Worker 47
+[2023-12-01 12:28:44] INFO: Allocating task 48 located in line 48 to Worker 48
+[2023-12-01 12:28:44] INFO: Allocating task 49 located in line 49 to Worker 49
+[2023-12-01 12:28:44] INFO: Allocating task 50 located in line 50 to Worker 50
+[2023-12-01 12:28:44] INFO: Allocating task 51 located in line 51 to Worker 51
+[2023-12-01 12:28:44] INFO: Allocating task 52 located in line 52 to Worker 52
+[2023-12-01 12:28:44] INFO: Allocating task 53 located in line 53 to Worker 53
+[2023-12-01 12:28:44] INFO: Allocating task 54 located in line 54 to Worker 54
+[2023-12-01 12:28:44] INFO: Allocating task 55 located in line 55 to Worker 55
+[2023-12-01 12:28:44] INFO: Allocating task 56 located in line 56 to Worker 56
+[2023-12-01 12:28:44] INFO: Allocating task 57 located in line 57 to Worker 57
+[2023-12-01 12:28:44] INFO: Allocating task 58 located in line 58 to Worker 58
+[2023-12-01 12:28:44] INFO: Worker 45 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 48 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 53 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 51 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 59 located in line 59 to Worker 59
+[2023-12-01 12:28:44] INFO: Worker 46 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 47 on node s02r1b39
+[2023-12-01 12:28:44] INFO: Worker 52 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 60 located in line 60 to Worker 60
+[2023-12-01 12:28:44] INFO: Worker 59 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 61 located in line 61 to Worker 61
+[2023-12-01 12:28:44] INFO: Worker 57 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 62 located in line 62 to Worker 62
+[2023-12-01 12:28:44] INFO: Worker 58 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 63 located in line 63 to Worker 63
+[2023-12-01 12:28:44] INFO: Worker 61 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 64 located in line 64 to Worker 64
+[2023-12-01 12:28:44] INFO: Worker 55 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 50 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 65 located in line 65 to Worker 65
+[2023-12-01 12:28:44] INFO: Worker 54 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 66 located in line 66 to Worker 66
+[2023-12-01 12:28:44] INFO: Worker 65 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 67 located in line 67 to Worker 67
+[2023-12-01 12:28:44] INFO: Worker 60 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 68 located in line 68 to Worker 68
+[2023-12-01 12:28:44] INFO: Worker 63 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 69 located in line 69 to Worker 69
+[2023-12-01 12:28:44] INFO: Worker 64 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 70 located in line 70 to Worker 70
+[2023-12-01 12:28:44] INFO: Worker 66 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 71 located in line 71 to Worker 71
+[2023-12-01 12:28:44] INFO: Worker 68 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 49 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 69 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 67 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Allocating task 72 located in line 72 to Worker 72
+[2023-12-01 12:28:44] INFO: Worker 70 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 62 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 56 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 72 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 73 located in line 73 to Worker 73
+[2023-12-01 12:28:44] INFO: Worker 71 on node s13r1b44
+[2023-12-01 12:28:44] INFO: Worker 73 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 74 located in line 74 to Worker 74
+[2023-12-01 12:28:44] INFO: Allocating task 75 located in line 75 to Worker 75
+[2023-12-01 12:28:44] INFO: Allocating task 76 located in line 76 to Worker 76
+[2023-12-01 12:28:44] INFO: Allocating task 77 located in line 77 to Worker 77
+[2023-12-01 12:28:44] INFO: Allocating task 78 located in line 78 to Worker 78
+[2023-12-01 12:28:44] INFO: Allocating task 79 located in line 79 to Worker 79
+[2023-12-01 12:28:44] INFO: Allocating task 80 located in line 80 to Worker 80
+[2023-12-01 12:28:44] INFO: Allocating task 81 located in line 81 to Worker 81
+[2023-12-01 12:28:44] INFO: Allocating task 82 located in line 82 to Worker 82
+[2023-12-01 12:28:44] INFO: Allocating task 83 located in line 83 to Worker 83
+[2023-12-01 12:28:44] INFO: Allocating task 84 located in line 84 to Worker 84
+[2023-12-01 12:28:44] INFO: Allocating task 85 located in line 85 to Worker 85
+[2023-12-01 12:28:44] INFO: Allocating task 86 located in line 86 to Worker 86
+[2023-12-01 12:28:44] INFO: Allocating task 87 located in line 87 to Worker 87
+[2023-12-01 12:28:44] INFO: Worker 74 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 76 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 88 located in line 88 to Worker 88
+[2023-12-01 12:28:44] INFO: Worker 87 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 89 located in line 89 to Worker 89
+[2023-12-01 12:28:44] INFO: Worker 81 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 78 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 90 located in line 90 to Worker 90
+[2023-12-01 12:28:44] INFO: Worker 89 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 85 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 77 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 91 located in line 91 to Worker 91
+[2023-12-01 12:28:44] INFO: Worker 79 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 92 located in line 92 to Worker 92
+[2023-12-01 12:28:44] INFO: Worker 90 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 93 located in line 93 to Worker 93
+[2023-12-01 12:28:44] INFO: Worker 75 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 91 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 83 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 94 located in line 94 to Worker 94
+[2023-12-01 12:28:44] INFO: Worker 92 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 95 located in line 95 to Worker 95
+[2023-12-01 12:28:44] INFO: Worker 82 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Allocating task 96 located in line 96 to Worker 96
+[2023-12-01 12:28:44] INFO: Worker 86 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 96 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 97 located in line 97 to Worker 97
+[2023-12-01 12:28:44] INFO: Worker 94 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 97 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 98 located in line 98 to Worker 98
+[2023-12-01 12:28:44] INFO: Worker 88 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 80 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 98 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 99 located in line 99 to Worker 99
+[2023-12-01 12:28:44] INFO: Worker 84 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 99 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 100 located in line 100 to Worker 100
+[2023-12-01 12:28:44] INFO: Worker 93 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 100 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 101 located in line 101 to Worker 101
+[2023-12-01 12:28:44] INFO: Worker 95 on node s13r1b46
+[2023-12-01 12:28:44] INFO: Worker 101 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 102 located in line 102 to Worker 102
+[2023-12-01 12:28:44] INFO: Allocating task 103 located in line 103 to Worker 103
+[2023-12-01 12:28:44] INFO: Allocating task 104 located in line 104 to Worker 104
+[2023-12-01 12:28:44] INFO: Allocating task 105 located in line 105 to Worker 105
+[2023-12-01 12:28:44] INFO: Allocating task 106 located in line 106 to Worker 106
+[2023-12-01 12:28:44] INFO: Allocating task 107 located in line 107 to Worker 107
+[2023-12-01 12:28:44] INFO: Allocating task 108 located in line 108 to Worker 108
+[2023-12-01 12:28:44] INFO: Allocating task 109 located in line 109 to Worker 109
+[2023-12-01 12:28:44] INFO: Allocating task 110 located in line 110 to Worker 110
+[2023-12-01 12:28:44] INFO: Allocating task 111 located in line 111 to Worker 111
+[2023-12-01 12:28:44] INFO: Allocating task 112 located in line 112 to Worker 112
+[2023-12-01 12:28:44] INFO: Allocating task 113 located in line 113 to Worker 113
+[2023-12-01 12:28:44] INFO: Allocating task 114 located in line 114 to Worker 114
+[2023-12-01 12:28:44] INFO: Allocating task 115 located in line 115 to Worker 115
+[2023-12-01 12:28:44] INFO: Allocating task 116 located in line 116 to Worker 116
+[2023-12-01 12:28:44] INFO: Worker 104 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 117 located in line 117 to Worker 117
+[2023-12-01 12:28:44] INFO: Worker 108 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 113 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 118 located in line 118 to Worker 118
+[2023-12-01 12:28:44] INFO: Worker 115 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 119 located in line 119 to Worker 119
+[2023-12-01 12:28:44] INFO: Worker 105 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 120 located in line 120 to Worker 120
+[2023-12-01 12:28:44] INFO: Worker 119 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 120 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 109 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Allocating task 121 located in line 121 to Worker 121
+[2023-12-01 12:28:44] INFO: Worker 117 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 121 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 122 located in line 122 to Worker 122
+[2023-12-01 12:28:44] INFO: Worker 112 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 122 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 123 located in line 123 to Worker 123
+[2023-12-01 12:28:44] INFO: Worker 103 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 111 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 118 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 123 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 124 located in line 124 to Worker 124
+[2023-12-01 12:28:44] INFO: Worker 106 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 124 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 125 located in line 125 to Worker 125
+[2023-12-01 12:28:44] INFO: Worker 110 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 125 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 126 located in line 126 to Worker 126
+[2023-12-01 12:28:44] INFO: Worker 116 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 126 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 127 located in line 127 to Worker 127
+[2023-12-01 12:28:44] INFO: Worker 102 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 127 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 128 located in line 128 to Worker 128
+[2023-12-01 12:28:44] INFO: Worker 107 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 114 on node s14r1b09
+[2023-12-01 12:28:44] INFO: Worker 128 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Allocating task 129 located in line 129 to Worker 129
+[2023-12-01 12:28:44] INFO: Allocating task 130 located in line 130 to Worker 130
+[2023-12-01 12:28:44] INFO: Allocating task 131 located in line 131 to Worker 131
+[2023-12-01 12:28:44] INFO: Allocating task 132 located in line 132 to Worker 132
+[2023-12-01 12:28:44] INFO: Allocating task 133 located in line 133 to Worker 133
+[2023-12-01 12:28:44] INFO: Allocating task 134 located in line 134 to Worker 134
+[2023-12-01 12:28:44] INFO: Allocating task 135 located in line 135 to Worker 135
+[2023-12-01 12:28:44] INFO: Allocating task 136 located in line 136 to Worker 136
+[2023-12-01 12:28:44] INFO: Allocating task 137 located in line 137 to Worker 137
+[2023-12-01 12:28:44] INFO: Allocating task 138 located in line 138 to Worker 138
+[2023-12-01 12:28:44] INFO: Allocating task 139 located in line 139 to Worker 139
+[2023-12-01 12:28:44] INFO: Allocating task 140 located in line 140 to Worker 140
+[2023-12-01 12:28:44] INFO: Allocating task 141 located in line 141 to Worker 141
+[2023-12-01 12:28:44] INFO: Allocating task 142 located in line 142 to Worker 142
+[2023-12-01 12:28:44] INFO: Allocating task 143 located in line 143 to Worker 143
+[2023-12-01 12:28:44] INFO: Worker 129 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 142 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Worker 143 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 144 located in line 144 to Worker 144
+[2023-12-01 12:28:44] INFO: Worker 136 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 144 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 145 located in line 145 to Worker 145
+[2023-12-01 12:28:44] INFO: Worker 135 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 141 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 145 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 146 located in line 146 to Worker 146
+[2023-12-01 12:28:44] INFO: Worker 138 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 130 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 146 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 147 located in line 147 to Worker 147
+[2023-12-01 12:28:44] INFO: Worker 140 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 147 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 148 located in line 148 to Worker 148
+[2023-12-01 12:28:44] INFO: Worker 139 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 134 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 148 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 149 located in line 149 to Worker 149
+[2023-12-01 12:28:44] INFO: Worker 137 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 149 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 150 located in line 150 to Worker 150
+[2023-12-01 12:28:44] INFO: Worker 132 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 131 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 133 on node s14r1b14
+[2023-12-01 12:28:44] INFO: Worker 150 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 151 located in line 151 to Worker 151
+[2023-12-01 12:28:44] INFO: Allocating task 152 located in line 152 to Worker 152
+[2023-12-01 12:28:44] INFO: Allocating task 153 located in line 153 to Worker 153
+[2023-12-01 12:28:44] INFO: Allocating task 154 located in line 154 to Worker 154
+[2023-12-01 12:28:44] INFO: Allocating task 155 located in line 155 to Worker 155
+[2023-12-01 12:28:44] INFO: Allocating task 156 located in line 156 to Worker 156
+[2023-12-01 12:28:44] INFO: Allocating task 157 located in line 157 to Worker 157
+[2023-12-01 12:28:44] INFO: Allocating task 158 located in line 158 to Worker 158
+[2023-12-01 12:28:44] INFO: Allocating task 159 located in line 159 to Worker 159
+[2023-12-01 12:28:44] INFO: Allocating task 160 located in line 160 to Worker 160
+[2023-12-01 12:28:44] INFO: Allocating task 161 located in line 161 to Worker 161
+[2023-12-01 12:28:44] INFO: Worker 151 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 162 located in line 162 to Worker 162
+[2023-12-01 12:28:44] INFO: Worker 158 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 163 located in line 163 to Worker 163
+[2023-12-01 12:28:44] INFO: Worker 159 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 164 located in line 164 to Worker 164
+[2023-12-01 12:28:44] INFO: Worker 161 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Allocating task 165 located in line 165 to Worker 165
+[2023-12-01 12:28:44] INFO: Worker 162 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Worker 165 on node s14r2b02
+[2023-12-01 12:28:44] INFO: Allocating task 166 located in line 166 to Worker 166
+[2023-12-01 12:28:44] INFO: Worker 157 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Worker 166 on node s14r2b02
+[2023-12-01 12:28:44] INFO: Allocating task 167 located in line 167 to Worker 167
+[2023-12-01 12:28:44] INFO: Worker 164 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 167 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 168 located in line 168 to Worker 168
+[2023-12-01 12:28:44] INFO: Worker 156 on node s14r1b17
+[2023-12-01 12:28:44] INFO: Worker 163 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 168 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 169 located in line 169 to Worker 169
+[2023-12-01 12:28:44] INFO: Worker 153 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 169 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 170 located in line 170 to Worker 170
+[2023-12-01 12:28:44] INFO: Worker 154 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 170 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 171 located in line 171 to Worker 171
+[2023-12-01 12:28:44] INFO: Worker 160 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 171 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 172 located in line 172 to Worker 172
+[2023-12-01 12:28:44] INFO: Worker 152 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 172 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 173 located in line 173 to Worker 173
+[2023-12-01 12:28:44] INFO: Worker 155 on node s14r1b17
+[2023-12-01 12:28:45] INFO: Worker 173 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 174 located in line 174 to Worker 174
+[2023-12-01 12:28:45] INFO: Allocating task 175 located in line 175 to Worker 175
+[2023-12-01 12:28:45] INFO: Allocating task 176 located in line 176 to Worker 176
+[2023-12-01 12:28:45] INFO: Allocating task 177 located in line 177 to Worker 177
+[2023-12-01 12:28:45] INFO: Allocating task 178 located in line 178 to Worker 178
+[2023-12-01 12:28:45] INFO: Allocating task 179 located in line 179 to Worker 179
+[2023-12-01 12:28:45] INFO: Allocating task 180 located in line 180 to Worker 180
+[2023-12-01 12:28:45] INFO: Allocating task 181 located in line 181 to Worker 181
+[2023-12-01 12:28:45] INFO: Allocating task 182 located in line 182 to Worker 182
+[2023-12-01 12:28:45] INFO: Allocating task 183 located in line 183 to Worker 183
+[2023-12-01 12:28:45] INFO: Allocating task 184 located in line 184 to Worker 184
+[2023-12-01 12:28:45] INFO: Worker 174 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 185 located in line 185 to Worker 185
+[2023-12-01 12:28:45] INFO: Worker 183 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 186 located in line 186 to Worker 186
+[2023-12-01 12:28:45] INFO: Worker 185 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 187 located in line 187 to Worker 187
+[2023-12-01 12:28:45] INFO: Worker 184 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Allocating task 188 located in line 188 to Worker 188
+[2023-12-01 12:28:45] INFO: Worker 182 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 188 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 189 located in line 189 to Worker 189
+[2023-12-01 12:28:45] INFO: Worker 181 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 180 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 189 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 190 located in line 190 to Worker 190
+[2023-12-01 12:28:45] INFO: Worker 186 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 190 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 191 located in line 191 to Worker 191
+[2023-12-01 12:28:45] INFO: Worker 177 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 191 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 192 located in line 192 to Worker 192
+[2023-12-01 12:28:45] INFO: Worker 178 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 192 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 193 located in line 193 to Worker 193
+[2023-12-01 12:28:45] INFO: Worker 187 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 193 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 194 located in line 194 to Worker 194
+[2023-12-01 12:28:45] INFO: Worker 179 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 175 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 194 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 195 located in line 195 to Worker 195
+[2023-12-01 12:28:45] INFO: Worker 176 on node s14r2b02
+[2023-12-01 12:28:45] INFO: Worker 195 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Allocating task 196 located in line 196 to Worker 196
+[2023-12-01 12:28:45] INFO: Allocating task 197 located in line 197 to Worker 197
+[2023-12-01 12:28:45] INFO: Allocating task 198 located in line 198 to Worker 198
+[2023-12-01 12:28:45] INFO: Allocating task 199 located in line 199 to Worker 199
+[2023-12-01 12:28:45] INFO: Allocating task 200 located in line 200 to Worker 200
+[2023-12-01 12:28:45] INFO: Allocating task 201 located in line 201 to Worker 201
+[2023-12-01 12:28:45] INFO: Allocating task 202 located in line 202 to Worker 202
+[2023-12-01 12:28:45] INFO: Allocating task 203 located in line 203 to Worker 203
+[2023-12-01 12:28:45] INFO: Allocating task 204 located in line 204 to Worker 204
+[2023-12-01 12:28:45] INFO: Allocating task 205 located in line 205 to Worker 205
+[2023-12-01 12:28:45] INFO: Allocating task 206 located in line 206 to Worker 206
+[2023-12-01 12:28:45] INFO: Allocating task 207 located in line 207 to Worker 207
+[2023-12-01 12:28:45] INFO: Allocating task 208 located in line 208 to Worker 208
+[2023-12-01 12:28:45] INFO: Allocating task 209 located in line 209 to Worker 209
+[2023-12-01 12:28:45] INFO: Allocating task 210 located in line 210 to Worker 210
+[2023-12-01 12:28:45] INFO: Worker 196 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 198 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 197 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 201 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 199 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 203 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 202 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 206 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 208 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 209 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 204 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 207 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 210 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 205 on node s14r2b04
+[2023-12-01 12:28:45] INFO: Worker 200 on node s14r2b04
+[2023-12-01 12:31:34] INFO: Task 113 located in line 113 completed successfully on node s14r1b09. Elapsed: 00:02:50
+[2023-12-01 12:31:35] INFO: Task 116 located in line 116 completed successfully on node s14r1b09. Elapsed: 00:02:50
+[2023-12-01 12:31:36] INFO: Task 137 located in line 137 completed successfully on node s14r1b14. Elapsed: 00:02:51
+[2023-12-01 12:31:36] INFO: Task 134 located in line 134 completed successfully on node s14r1b14. Elapsed: 00:02:51
+[2023-12-01 12:31:40] INFO: Task 90 located in line 90 completed successfully on node s13r1b46. Elapsed: 00:02:55
+[2023-12-01 12:31:40] INFO: Task 179 located in line 179 completed successfully on node s14r2b02. Elapsed: 00:02:55
+[2023-12-01 12:31:41] INFO: Task 88 located in line 88 completed successfully on node s13r1b46. Elapsed: 00:02:56
+[2023-12-01 12:31:41] INFO: Task 125 located in line 125 completed successfully on node s14r1b14. Elapsed: 00:02:56
+[2023-12-01 12:31:41] INFO: Task 181 located in line 181 completed successfully on node s14r2b02. Elapsed: 00:02:56
+[2023-12-01 12:31:41] INFO: Task 200 located in line 200 completed successfully on node s14r2b04. Elapsed: 00:02:56
+[2023-12-01 12:31:42] INFO: Task 104 located in line 104 completed successfully on node s14r1b09. Elapsed: 00:02:57
+[2023-12-01 12:31:42] INFO: Task 63 located in line 63 completed successfully on node s13r1b44. Elapsed: 00:02:57
+[2023-12-01 12:31:42] INFO: Task 202 located in line 202 completed successfully on node s14r2b04. Elapsed: 00:02:57
+[2023-12-01 12:31:42] INFO: Task 93 located in line 93 completed successfully on node s13r1b46. Elapsed: 00:02:58
+[2023-12-01 12:31:43] INFO: Task 111 located in line 111 completed successfully on node s14r1b09. Elapsed: 00:02:58
+[2023-12-01 12:31:43] INFO: Task 66 located in line 66 completed successfully on node s13r1b44. Elapsed: 00:02:59
+[2023-12-01 12:31:44] INFO: Task 87 located in line 87 completed successfully on node s13r1b46. Elapsed: 00:02:59
+[2023-12-01 12:31:44] INFO: Task 132 located in line 132 completed successfully on node s14r1b14. Elapsed: 00:02:59
+[2023-12-01 12:31:45] INFO: Task 192 located in line 192 completed successfully on node s14r2b04. Elapsed: 00:03:00
+[2023-12-01 12:31:45] INFO: Task 177 located in line 177 completed successfully on node s14r2b02. Elapsed: 00:03:00
+[2023-12-01 12:31:45] INFO: Task 139 located in line 139 completed successfully on node s14r1b14. Elapsed: 00:03:00
+[2023-12-01 12:31:45] INFO: Task 29 located in line 29 completed successfully on node s02r1b39. Elapsed: 00:03:01
+[2023-12-01 12:31:46] INFO: Task 54 located in line 54 completed successfully on node s13r1b44. Elapsed: 00:03:01
+[2023-12-01 12:31:46] INFO: Task 135 located in line 135 completed successfully on node s14r1b14. Elapsed: 00:03:01
+[2023-12-01 12:31:46] INFO: Task 41 located in line 41 completed successfully on node s02r1b39. Elapsed: 00:03:01
+[2023-12-01 12:31:46] INFO: Task 183 located in line 183 completed successfully on node s14r2b02. Elapsed: 00:03:01
+[2023-12-01 12:31:46] INFO: Task 61 located in line 61 completed successfully on node s13r1b44. Elapsed: 00:03:02
+[2023-12-01 12:31:47] INFO: Task 146 located in line 146 completed successfully on node s14r1b17. Elapsed: 00:03:02
+[2023-12-01 12:31:47] INFO: Task 79 located in line 79 completed successfully on node s13r1b46. Elapsed: 00:03:02
+[2023-12-01 12:31:47] INFO: Task 207 located in line 207 completed successfully on node s14r2b04. Elapsed: 00:03:02
+[2023-12-01 12:31:47] INFO: Task 157 located in line 157 completed successfully on node s14r1b17. Elapsed: 00:03:02
+[2023-12-01 12:31:47] INFO: Task 140 located in line 140 completed successfully on node s14r1b14. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 154 located in line 154 completed successfully on node s14r1b17. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 86 located in line 86 completed successfully on node s13r1b46. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 11 located in line 11 completed successfully on node s02r1b28. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 170 located in line 170 completed successfully on node s14r2b02. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 204 located in line 204 completed successfully on node s14r2b04. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 122 located in line 122 completed successfully on node s14r1b14. Elapsed: 00:03:03
+[2023-12-01 12:31:48] INFO: Task 69 located in line 69 completed successfully on node s13r1b44. Elapsed: 00:03:04
+[2023-12-01 12:31:48] INFO: Task 95 located in line 95 completed successfully on node s13r1b46. Elapsed: 00:03:04
+[2023-12-01 12:31:49] INFO: Task 38 located in line 38 completed successfully on node s02r1b39. Elapsed: 00:03:04
+[2023-12-01 12:31:49] INFO: Task 55 located in line 55 completed successfully on node s13r1b44. Elapsed: 00:03:04
+[2023-12-01 12:31:49] INFO: Task 76 located in line 76 completed successfully on node s13r1b46. Elapsed: 00:03:04
+[2023-12-01 12:31:49] INFO: Task 126 located in line 126 completed successfully on node s14r1b14. Elapsed: 00:03:04
+[2023-12-01 12:31:49] INFO: Task 99 located in line 99 completed successfully on node s14r1b09. Elapsed: 00:03:04
+[2023-12-01 12:31:50] INFO: Task 127 located in line 127 completed successfully on node s14r1b14. Elapsed: 00:03:05
+[2023-12-01 12:31:50] INFO: Task 141 located in line 141 completed successfully on node s14r1b14. Elapsed: 00:03:05
+[2023-12-01 12:31:50] INFO: Task 198 located in line 198 completed successfully on node s14r2b04. Elapsed: 00:03:05
+[2023-12-01 12:31:50] INFO: Task 105 located in line 105 completed successfully on node s14r1b09. Elapsed: 00:03:05
+[2023-12-01 12:31:50] INFO: Task 114 located in line 114 completed successfully on node s14r1b09. Elapsed: 00:03:05
+[2023-12-01 12:31:50] INFO: Task 191 located in line 191 completed successfully on node s14r2b04. Elapsed: 00:03:05
+[2023-12-01 12:31:51] INFO: Task 119 located in line 119 completed successfully on node s14r1b14. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 44 located in line 44 completed successfully on node s02r1b39. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 120 located in line 120 completed successfully on node s14r1b14. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 72 located in line 72 completed successfully on node s13r1b46. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 133 located in line 133 completed successfully on node s14r1b14. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 155 located in line 155 completed successfully on node s14r1b17. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 26 located in line 26 completed successfully on node s02r1b39. Elapsed: 00:03:07
+[2023-12-01 12:31:51] INFO: Task 159 located in line 159 completed successfully on node s14r1b17. Elapsed: 00:03:06
+[2023-12-01 12:31:51] INFO: Task 97 located in line 97 completed successfully on node s14r1b09. Elapsed: 00:03:07
+[2023-12-01 12:31:51] INFO: Task 136 located in line 136 completed successfully on node s14r1b14. Elapsed: 00:03:07
+[2023-12-01 12:31:52] INFO: Task 143 located in line 143 completed successfully on node s14r1b17. Elapsed: 00:03:07
+[2023-12-01 12:31:52] INFO: Task 130 located in line 130 completed successfully on node s14r1b14. Elapsed: 00:03:07
+[2023-12-01 12:31:52] INFO: Task 16 located in line 16 completed successfully on node s02r1b28. Elapsed: 00:03:08
+[2023-12-01 12:31:52] INFO: Task 142 located in line 142 completed successfully on node s14r1b17. Elapsed: 00:03:07
+[2023-12-01 12:31:52] INFO: Task 101 located in line 101 completed successfully on node s14r1b09. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 193 located in line 193 completed successfully on node s14r2b04. Elapsed: 00:03:07
+[2023-12-01 12:31:53] INFO: Task 208 located in line 208 completed successfully on node s14r2b04. Elapsed: 00:03:07
+[2023-12-01 12:31:53] INFO: Task 186 located in line 186 completed successfully on node s14r2b02. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 147 located in line 147 completed successfully on node s14r1b17. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 13 located in line 13 completed successfully on node s02r1b28. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 36 located in line 36 completed successfully on node s02r1b39. Elapsed: 00:03:09
+[2023-12-01 12:31:53] INFO: Task 129 located in line 129 completed successfully on node s14r1b14. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 14 located in line 14 completed successfully on node s02r1b28. Elapsed: 00:03:09
+[2023-12-01 12:31:53] INFO: Task 162 located in line 162 completed successfully on node s14r1b17. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 153 located in line 153 completed successfully on node s14r1b17. Elapsed: 00:03:08
+[2023-12-01 12:31:53] INFO: Task 98 located in line 98 completed successfully on node s14r1b09. Elapsed: 00:03:09
+[2023-12-01 12:31:54] INFO: Task 73 located in line 73 completed successfully on node s13r1b46. Elapsed: 00:03:09
+[2023-12-01 12:31:54] INFO: Task 106 located in line 106 completed successfully on node s14r1b09. Elapsed: 00:03:09
+[2023-12-01 12:31:54] INFO: Task 117 located in line 117 completed successfully on node s14r1b09. Elapsed: 00:03:09
+[2023-12-01 12:31:54] INFO: Task 107 located in line 107 completed successfully on node s14r1b09. Elapsed: 00:03:09
+[2023-12-01 12:31:54] INFO: Task 80 located in line 80 completed successfully on node s13r1b46. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 110 located in line 110 completed successfully on node s14r1b09. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 2 located in line 2 completed successfully on node s02r1b28. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 164 located in line 164 completed successfully on node s14r1b17. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 185 located in line 185 completed successfully on node s14r2b02. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 48 located in line 48 completed successfully on node s13r1b44. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 165 located in line 165 completed successfully on node s14r2b02. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 77 located in line 77 completed successfully on node s13r1b46. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 81 located in line 81 completed successfully on node s13r1b46. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 118 located in line 118 completed successfully on node s14r1b09. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 115 located in line 115 completed successfully on node s14r1b09. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 171 located in line 171 completed successfully on node s14r2b02. Elapsed: 00:03:10
+[2023-12-01 12:31:55] INFO: Task 40 located in line 40 completed successfully on node s02r1b39. Elapsed: 00:03:11
+[2023-12-01 12:31:55] INFO: Task 112 located in line 112 completed successfully on node s14r1b09. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 180 located in line 180 completed successfully on node s14r2b02. Elapsed: 00:03:10
+[2023-12-01 12:31:56] INFO: Task 196 located in line 196 completed successfully on node s14r2b04. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 100 located in line 100 completed successfully on node s14r1b09. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 158 located in line 158 completed successfully on node s14r1b17. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 91 located in line 91 completed successfully on node s13r1b46. Elapsed: 00:03:12
+[2023-12-01 12:31:56] INFO: Task 206 located in line 206 completed successfully on node s14r2b04. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 94 located in line 94 completed successfully on node s13r1b46. Elapsed: 00:03:12
+[2023-12-01 12:31:56] INFO: Task 187 located in line 187 completed successfully on node s14r2b02. Elapsed: 00:03:11
+[2023-12-01 12:31:56] INFO: Task 199 located in line 199 completed successfully on node s14r2b04. Elapsed: 00:03:11
+[2023-12-01 12:31:57] INFO: Task 195 located in line 195 completed successfully on node s14r2b04. Elapsed: 00:03:11
+[2023-12-01 12:31:57] INFO: Task 151 located in line 151 completed successfully on node s14r1b17. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 65 located in line 65 completed successfully on node s13r1b44. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 89 located in line 89 completed successfully on node s13r1b46. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 92 located in line 92 completed successfully on node s13r1b46. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 51 located in line 51 completed successfully on node s13r1b44. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 131 located in line 131 completed successfully on node s14r1b14. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 10 located in line 10 completed successfully on node s02r1b28. Elapsed: 00:03:13
+[2023-12-01 12:31:57] INFO: Task 166 located in line 166 completed successfully on node s14r2b02. Elapsed: 00:03:12
+[2023-12-01 12:31:57] INFO: Task 121 located in line 121 completed successfully on node s14r1b14. Elapsed: 00:03:13
+[2023-12-01 12:31:57] INFO: Task 103 located in line 103 completed successfully on node s14r1b09. Elapsed: 00:03:13
+[2023-12-01 12:31:58] INFO: Task 160 located in line 160 completed successfully on node s14r1b17. Elapsed: 00:03:12
+[2023-12-01 12:31:58] INFO: Task 201 located in line 201 completed successfully on node s14r2b04. Elapsed: 00:03:12
+[2023-12-01 12:31:58] INFO: Task 203 located in line 203 completed successfully on node s14r2b04. Elapsed: 00:03:13
+[2023-12-01 12:31:58] INFO: Task 47 located in line 47 completed successfully on node s02r1b39. Elapsed: 00:03:13
+[2023-12-01 12:31:58] INFO: Task 176 located in line 176 completed successfully on node s14r2b02. Elapsed: 00:03:13
+[2023-12-01 12:31:58] INFO: Task 67 located in line 67 completed successfully on node s13r1b44. Elapsed: 00:03:13
+[2023-12-01 12:31:58] INFO: Task 30 located in line 30 completed successfully on node s02r1b39. Elapsed: 00:03:14
+[2023-12-01 12:31:58] INFO: Task 19 located in line 19 completed successfully on node s02r1b28. Elapsed: 00:03:14
+[2023-12-01 12:31:58] INFO: Task 102 located in line 102 completed successfully on node s14r1b09. Elapsed: 00:03:14
+[2023-12-01 12:31:58] INFO: Task 190 located in line 190 completed successfully on node s14r2b04. Elapsed: 00:03:13
+[2023-12-01 12:31:59] INFO: Task 9 located in line 9 completed successfully on node s02r1b28. Elapsed: 00:03:14
+[2023-12-01 12:31:59] INFO: Task 27 located in line 27 completed successfully on node s02r1b39. Elapsed: 00:03:15
+[2023-12-01 12:31:59] INFO: Task 84 located in line 84 completed successfully on node s13r1b46. Elapsed: 00:03:14
+[2023-12-01 12:32:00] INFO: Task 6 located in line 6 completed successfully on node s02r1b28. Elapsed: 00:03:15
+[2023-12-01 12:32:00] INFO: Task 148 located in line 148 completed successfully on node s14r1b17. Elapsed: 00:03:15
+[2023-12-01 12:32:00] INFO: Task 50 located in line 50 completed successfully on node s13r1b44. Elapsed: 00:03:15
+[2023-12-01 12:32:00] INFO: Task 144 located in line 144 completed successfully on node s14r1b17. Elapsed: 00:03:15
+[2023-12-01 12:32:01] INFO: Task 210 located in line 210 completed successfully on node s14r2b04. Elapsed: 00:03:16
+[2023-12-01 12:32:01] INFO: Task 128 located in line 128 completed successfully on node s14r1b14. Elapsed: 00:03:16
+[2023-12-01 12:32:01] INFO: Task 3 located in line 3 completed successfully on node s02r1b28. Elapsed: 00:03:17
+[2023-12-01 12:32:01] INFO: Task 124 located in line 124 completed successfully on node s14r1b14. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 138 located in line 138 completed successfully on node s14r1b14. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 109 located in line 109 completed successfully on node s14r1b09. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 15 located in line 15 completed successfully on node s02r1b28. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 172 located in line 172 completed successfully on node s14r2b02. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 189 located in line 189 completed successfully on node s14r2b04. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 42 located in line 42 completed successfully on node s02r1b39. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 197 located in line 197 completed successfully on node s14r2b04. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 53 located in line 53 completed successfully on node s13r1b44. Elapsed: 00:03:17
+[2023-12-01 12:32:02] INFO: Task 59 located in line 59 completed successfully on node s13r1b44. Elapsed: 00:03:18
+[2023-12-01 12:32:02] INFO: Task 62 located in line 62 completed successfully on node s13r1b44. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 174 located in line 174 completed successfully on node s14r2b02. Elapsed: 00:03:17
+[2023-12-01 12:32:03] INFO: Task 68 located in line 68 completed successfully on node s13r1b44. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 108 located in line 108 completed successfully on node s14r1b09. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 96 located in line 96 completed successfully on node s14r1b09. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 156 located in line 156 completed successfully on node s14r1b17. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 52 located in line 52 completed successfully on node s13r1b44. Elapsed: 00:03:19
+[2023-12-01 12:32:03] INFO: Task 150 located in line 150 completed successfully on node s14r1b17. Elapsed: 00:03:18
+[2023-12-01 12:32:03] INFO: Task 83 located in line 83 completed successfully on node s13r1b46. Elapsed: 00:03:19
+[2023-12-01 12:32:04] INFO: Task 82 located in line 82 completed successfully on node s13r1b46. Elapsed: 00:03:19
+[2023-12-01 12:32:04] INFO: Task 31 located in line 31 completed successfully on node s02r1b39. Elapsed: 00:03:20
+[2023-12-01 12:32:04] INFO: Task 58 located in line 58 completed successfully on node s13r1b44. Elapsed: 00:03:20
+[2023-12-01 12:32:05] INFO: Task 85 located in line 85 completed successfully on node s13r1b46. Elapsed: 00:03:20
+[2023-12-01 12:32:05] INFO: Task 194 located in line 194 completed successfully on node s14r2b04. Elapsed: 00:03:20
+[2023-12-01 12:32:06] INFO: Task 75 located in line 75 completed successfully on node s13r1b46. Elapsed: 00:03:21
+[2023-12-01 12:32:06] INFO: Task 145 located in line 145 completed successfully on node s14r1b17. Elapsed: 00:03:21
+[2023-12-01 12:32:06] INFO: Task 123 located in line 123 completed successfully on node s14r1b14. Elapsed: 00:03:21
+[2023-12-01 12:32:07] INFO: Task 34 located in line 34 completed successfully on node s02r1b39. Elapsed: 00:03:22
+[2023-12-01 12:32:07] INFO: Task 43 located in line 43 completed successfully on node s02r1b39. Elapsed: 00:03:23
+[2023-12-01 12:32:08] INFO: Task 184 located in line 184 completed successfully on node s14r2b02. Elapsed: 00:03:23
+[2023-12-01 12:32:08] INFO: Task 168 located in line 168 completed successfully on node s14r2b02. Elapsed: 00:03:23
+[2023-12-01 12:32:08] INFO: Task 46 located in line 46 completed successfully on node s02r1b39. Elapsed: 00:03:23
+[2023-12-01 12:32:08] INFO: Task 71 located in line 71 completed successfully on node s13r1b44. Elapsed: 00:03:24
+[2023-12-01 12:32:08] INFO: Task 149 located in line 149 completed successfully on node s14r1b17. Elapsed: 00:03:23
+[2023-12-01 12:32:08] INFO: Task 178 located in line 178 completed successfully on node s14r2b02. Elapsed: 00:03:23
+[2023-12-01 12:32:09] INFO: Task 169 located in line 169 completed successfully on node s14r2b02. Elapsed: 00:03:24
+[2023-12-01 12:32:09] INFO: Task 35 located in line 35 completed successfully on node s02r1b39. Elapsed: 00:03:24
+[2023-12-01 12:32:09] INFO: Task 5 located in line 5 completed successfully on node s02r1b28. Elapsed: 00:03:25
+[2023-12-01 12:32:09] INFO: Task 64 located in line 64 completed successfully on node s13r1b44. Elapsed: 00:03:25
+[2023-12-01 12:32:09] INFO: Task 205 located in line 205 completed successfully on node s14r2b04. Elapsed: 00:03:24
+[2023-12-01 12:32:10] INFO: Task 37 located in line 37 completed successfully on node s02r1b39. Elapsed: 00:03:25
+[2023-12-01 12:32:10] INFO: Task 1 located in line 1 completed successfully on node s02r1b28. Elapsed: 00:03:25
+[2023-12-01 12:32:10] INFO: Task 25 located in line 25 completed successfully on node s02r1b39. Elapsed: 00:03:25
+[2023-12-01 12:32:10] INFO: Task 23 located in line 23 completed successfully on node s02r1b28. Elapsed: 00:03:25
+[2023-12-01 12:32:10] INFO: Task 163 located in line 163 completed successfully on node s14r1b17. Elapsed: 00:03:25
+[2023-12-01 12:32:10] INFO: Task 20 located in line 20 completed successfully on node s02r1b28. Elapsed: 00:03:26
+[2023-12-01 12:32:10] INFO: Task 18 located in line 18 completed successfully on node s02r1b28. Elapsed: 00:03:26
+[2023-12-01 12:32:10] INFO: Task 78 located in line 78 completed successfully on node s13r1b46. Elapsed: 00:03:26
+[2023-12-01 12:32:11] INFO: Task 8 located in line 8 completed successfully on node s02r1b28. Elapsed: 00:03:26
+[2023-12-01 12:32:11] INFO: Task 161 located in line 161 completed successfully on node s14r1b17. Elapsed: 00:03:26
+[2023-12-01 12:32:12] INFO: Task 21 located in line 21 completed successfully on node s02r1b28. Elapsed: 00:03:27
+[2023-12-01 12:32:12] INFO: Task 56 located in line 56 completed successfully on node s13r1b44. Elapsed: 00:03:27
+[2023-12-01 12:32:12] INFO: Task 57 located in line 57 completed successfully on node s13r1b44. Elapsed: 00:03:28
+[2023-12-01 12:32:13] INFO: Task 39 located in line 39 completed successfully on node s02r1b39. Elapsed: 00:03:28
+[2023-12-01 12:32:14] INFO: Task 173 located in line 173 completed successfully on node s14r2b02. Elapsed: 00:03:29
+[2023-12-01 12:32:14] INFO: Task 22 located in line 22 completed successfully on node s02r1b28. Elapsed: 00:03:29
+[2023-12-01 12:32:14] INFO: Task 17 located in line 17 completed successfully on node s02r1b28. Elapsed: 00:03:30
+[2023-12-01 12:32:15] INFO: Task 7 located in line 7 completed successfully on node s02r1b28. Elapsed: 00:03:30
+[2023-12-01 12:32:15] INFO: Task 60 located in line 60 completed successfully on node s13r1b44. Elapsed: 00:03:30
+[2023-12-01 12:32:15] INFO: Task 175 located in line 175 completed successfully on node s14r2b02. Elapsed: 00:03:30
+[2023-12-01 12:32:15] INFO: Task 182 located in line 182 completed successfully on node s14r2b02. Elapsed: 00:03:30
+[2023-12-01 12:32:15] INFO: Task 4 located in line 4 completed successfully on node s02r1b28. Elapsed: 00:03:31
+[2023-12-01 12:32:16] INFO: Task 28 located in line 28 completed successfully on node s02r1b39. Elapsed: 00:03:31
+[2023-12-01 12:32:16] INFO: Task 152 located in line 152 completed successfully on node s14r1b17. Elapsed: 00:03:31
+[2023-12-01 12:32:16] INFO: Task 45 located in line 45 completed successfully on node s02r1b39. Elapsed: 00:03:31
+[2023-12-01 12:32:17] INFO: Task 12 located in line 12 completed successfully on node s02r1b28. Elapsed: 00:03:33
+[2023-12-01 12:32:18] INFO: Task 209 located in line 209 completed successfully on node s14r2b04. Elapsed: 00:03:32
+[2023-12-01 12:32:18] INFO: Task 32 located in line 32 completed successfully on node s02r1b39. Elapsed: 00:03:34
+[2023-12-01 12:32:18] INFO: Task 33 located in line 33 completed successfully on node s02r1b39. Elapsed: 00:03:34
+[2023-12-01 12:32:19] INFO: Task 188 located in line 188 completed successfully on node s14r2b04. Elapsed: 00:03:34
+[2023-12-01 12:32:19] INFO: Task 70 located in line 70 completed successfully on node s13r1b44. Elapsed: 00:03:34
+[2023-12-01 12:32:20] INFO: Task 167 located in line 167 completed successfully on node s14r2b02. Elapsed: 00:03:35
+[2023-12-01 12:32:21] INFO: Task 74 located in line 74 completed successfully on node s13r1b46. Elapsed: 00:03:36
+[2023-12-01 12:32:22] INFO: Task 49 located in line 49 completed successfully on node s13r1b44. Elapsed: 00:03:38
+[2023-12-01 12:32:23] INFO: Task 24 located in line 24 completed successfully on node s02r1b39. Elapsed: 00:03:39
+[2023-12-01 12:32:23] INFO: MPI engine finished
+[2023-12-01 12:32:23] INFO: Summary of 210 tasks: 210 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2023-12-01 12:32:23] INFO: Total time: 00:03:39
+[2023-12-01 12:32:23] INFO: Resource Utilization: 88.16%
+[2023-12-01 12:32:23] Finished greasing /gpfs/scratch/bsc08/bsc08295/TFM/Aging/myrun_02GSEA.txt
