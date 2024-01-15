@@ -106,14 +106,7 @@ In summary, the script seems to automate the process of conducting differential 
 
 ## 02_Plots.R
 ### Description:
-
-
-### Directory Creation: 
-Checks and creates directories for storing results if they don’t exist.
-
-### Data Loading: 
-
-### Data Filtering: 
+The R code defines a function, "generatetablesandplotdendrogram". The function takes parameters such as sex, tissues, comparison, and database. Initially, it sets up paths and reads a file containing curated Reactome pathways. Subsequently, it processes Normalized Enrichment Score (NES), creating two data tables (NES and Binary) with pathways and their corresponding values. These tables are then merged with curated Reactome pathways, resulting in final data tables grouped by parent pathways and sorted alphabetically. 
 
 ### Plots:
 
