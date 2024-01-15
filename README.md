@@ -102,3 +102,20 @@ Filters samples based on specified conditions:
 - Writes the results of the analysis into output files in the "Results/DifferentialExpression/" directory.
 
 In summary, the script seems to automate the process of conducting differential expression analysis for gene expression data based on various conditions, such as tissue type, sex, and age comparison.
+
+
+## 02_Plots.R
+### Description:
+
+
+### Directory Creation: 
+Checks and creates directories for storing results if they don’t exist.
+
+### Data Loading: 
+
+### Data Filtering: 
+
+### Plots:
+
+
+In summary, 
