@@ -114,7 +114,11 @@ The R code defines a function, "generatetablesandplotdendrogram". The function t
 ### Cluster:
 We perform cluster analysis using the pvclust package. The analysis is applied to the previously generated data tables, NES and Binary, and the resulting hierarchical clustering is stored in a variable called NESCluster. The pvclust function is configured to use Euclidean distance for clustering and the Ward.D2 method for hierarchical clustering, with 1000 bootstrap replicates (nboot parameter).
 
+### Legend:
+We generate a legend for Reactome pathway categories, associated with a specific color scheme. The function reads color information from a tab-separated values (tsv) file, assigns colors to Reactome categories, and creates a legend in PDF format. The legend displays the pathway names, corresponding colors, and is organized in a single column with a title. This legend is useful for interpreting and associating pathway categories with colors in subsequent heatmaps generated in the Reactome pathway analysis. 
+
 ### Plots:
 We define a function called "plotdendrograms" that generates dendrograms and heatmaps from gene expression data. The function takes two parameters: comparison and database. It verifies the database type ("Reactome" or "MetabolicTask"), prepares for dendrogram generation, processes relevant files, and generates dendrograms and heatmaps for various sample groups, such as all tissues, common tissues, male-specific tissues, and female-specific tissues. The graphical results are stored in PDF files. 
+The "plotheathmaps" function generates heatmaps based on the provided binary matrix, matrix labels, output name, and the specified database (Reactome or MetabolicTask). The function first checks the database type and, for Reactome, creates a color palette and maps colors to pathway categories. It then uses the heatmap.2 function to generate a heatmap, considering the color mapping and relevant data from the binary matrix. The resulting heatmap is saved as a PDF file specified by the output name. For the MetabolicTask database, a similar process is followed.
 
-In summary, 
+In summary, the core function, "generatetablesandplotdendrogram," processes and clusters data to generate dendrograms and heatmaps. The script also includes functions to create legends for Reactome pathway categories, facilitating interpretation of subsequent heatmaps.
