@@ -108,6 +108,12 @@ In summary, the script seems to automate the process of conducting differential 
 ### Description:
 The R code defines a function, "generatetablesandplotdendrogram". The function takes parameters such as sex, tissues, comparison, and database. Initially, it sets up paths and reads a file containing curated Reactome pathways. Subsequently, it processes Normalized Enrichment Score (NES), creating two data tables (NES and Binary) with pathways and their corresponding values. These tables are then merged with curated Reactome pathways, resulting in final data tables grouped by parent pathways and sorted alphabetically. 
 
+### Data Processing:
+The R code defines a function, "generatetablesandplotdendrogram". The function takes parameters such as sex, tissues, comparison, and database. Initially, it sets up paths and reads a file containing curated Reactome pathways. Subsequently, it processes Normalized Enrichment Score (NES), creating two data tables (NES and Binary) with pathways and their corresponding values. These tables are then merged with curated Reactome pathways, resulting in final data tables grouped by parent pathways and sorted alphabetically. 
+
+### Cluster:
+We perform cluster analysis using the pvclust package. The analysis is applied to the previously generated data tables, NES and Binary, and the resulting hierarchical clustering is stored in a variable called NESCluster. The pvclust function is configured to use Euclidean distance for clustering and the Ward.D2 method for hierarchical clustering, with 1000 bootstrap replicates (nboot parameter).
+
 ### Plots:
 
 
